@@ -38,7 +38,7 @@
 						<li class="list-group-item text"></li>
 					</ul>
 
-					<h2 class="text"></h2>
+					<h3 class="text"></h3>
 				</div>
 			</div>
 			
@@ -48,14 +48,14 @@
 
 		<script src="about/about_FR.js"></script>
 		<script src="about/about_NL.js"></script>
-
+		<script src="about/about_EN.js"></script>
 
 		<script>
 			var lang = "<?php echo $lang ?>";
 			var contents = {
 				fr: about_FR,
 				nl: about_NL,
-				en: "about_EN"
+				en: about_EN
 			};
 			insertText(lang,contents);
 		</script>

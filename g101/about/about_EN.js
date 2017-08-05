@@ -1,41 +1,41 @@
 var about_EN = [
-	"STUDIO DE VACANCES à louer sur les pistes des 4 Vallées à THYON2000 / Valais", //titre
+	"APARTMENT TO RENT, THYON 2000, SWITZERLAND", //titre
 
-	"Thyon est situé à 2100 mètres d'altitude en Valais à 20 km de Sion (lieu sans circulation automobile avec garage souterrain). Le studio no. 101,  se trouve dans le bâtiment GREPPON <b>au niveau 1</b>.",
+	"The village of Thyon 2000 is situated at 2100m altiutude in the Swiss alps. The distance to Sion is about 20 km.",
 
-	"Le domaine skiable Les 4 Vallées (412km de pistes) est le plus grand de Suisse et est praticable de décembre à avril. Le studio se trouve à quelques mètres des pistes de ski.",
+	"The ski resort \"Les 4 Vallées\" (with 412km of ski tracks) is the largest ski resort in Switzerland. The ski season lasts from december to april.",
 
-	"De mai à novembre de nombreux itinéraires de randonnée sur l'alpage de Thyon sont indiqués.",
+	"During the other months of the year, from May until November, hiking is very pleasant on the many roads that are available to you. The landscape and the fauna and flora are beautiful to see.",
 
-	"Joli studio entièrement équipé pour 4 personnes, 30 m<sup>2</sup>. Idéal pour 2 adultes et 2 enfants.",
+	"The apartment is very modern and has a surface of 30m<sup>2</sup>. Perfect for 2 adults and 2 children.",
 
-	"Balcon ensoleillé l'après-midi. Un canapé-lit pour deux personnes et deux lits superposés (4 duvets et 4 oreillers).",
+	"In the afternoon the balcony is on the sunny side. A bedsofa for 2 persons and two high beds (with 4 quilts en 4 pillows)",
 
-	"Salle de bains avec baignoire/douche, cuisine neuve, avec frigo, four, vitrocéram.",
+	"Bathroom with shower and bath, new kitchen with freezer, combi-oven, electrical cooktop.",
 
-	"Four à micro-ondes/gril,  set fondue, four à raclette, machine à café DOLCE GUSTO et machine à café-filtre, toaster.",
+	"Fondue-set, Raclette tool, DOLCE GUSTO coffeemaker + filter coffee machine, Toaster, Microwave, TV-sat.flatscreen, DVD, PlayStation 2.",
 
-	"TV-sat. (écran-plat), DVD, PlayStation2. Une piscine couverte se trouve à quelques mètres de l'entrée de l'immeuble.",
+	"The indoor swimming pool is near the building of the apartment.",
 
-	"La location comprend : studio, armoire à ski, place de parc, literie pour les 4 duvets/oreillers.", 
+	"The location contains : the apartment, the ski storage room (see below), the parking space and all you need to sleep (4 quilts, 4 pillows and the cases that go with them)", 
 
-	"Dans le parking souterrain, prenez l'ascenseur jusqu'au niveau 1 et vous êtes à l'étage où se trouve l'appartement.",
+	"Our apartment is apartment \"Greppon 101\", situated in building GREPPON, on the first floor.",
 
-	"Le local à ski avec armoire pour vos skis et chaussures de ski(no.101) se trouve au <b>niveau -1</b>.",
+	"In the same building as the apartment on <b>floor -1</b>, you will find the skis storage room.",
 
-	"La place de parc privée est située dans le PARKING -2 (sous le bâtiment GREPPON).",
+	"Our privat parking space is situated in Parking -2 under the building. This is included in our price.",
 
-	"Possibilités de location :",
+	"Rental offers:",
 
-	"De mai à novembre:",
-	"CHF 300 par semaine",
-	"Par weekend: CHF 100.",
+	"From May until November: ",
+	"One week: CHF 300.-",
+	"One weekend CHF 100.-",
 
-	"De décembre à avril:",
-	"CHF 650 par semaine",
-	"CHF 250 par weekend  de vendredi à dimanche soir",
-	"Du lundi au vendredi: CHF 450",
+	"From December until April: (ski period)",
+	"One week : CHF 650.-",
+	"One weekend CHF 250,- from Friday until Sunday",
+	"From Monday until Friday: CHF 450.- ",
 
-	"+ Taxes de séjour: CHF 2,50 par adulte, CHF 1,25 par enfant"
+	"+ Tourist tax: CHF 2,50/ adult CHF 1,25/kid"
 
 ];
