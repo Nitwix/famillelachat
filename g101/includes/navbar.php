@@ -19,18 +19,21 @@ $contents = ['home' => '',
 switch($lang){
 	case 'fr':
 		$contents['home'] = 'Accueil';
+		$contents['about'] = 'À propos';
 		$contents['contact'] = 'Nous contacter';
 		$contents['agenda'] = 'Disponibilités de l\'appartement';
 		$contents['photos'] = 'Photos de l\'appartement';
 		break;
 	case 'nl':
 		$contents['home'] = 'Homepagina';
+		$contents['about'] = 'Meer informatie';
 		$contents['contact'] = 'Neem met ons contact';
 		$contents['agenda'] = 'Beschikbaarheid van het appartement';
 		$contents['photos'] = 'Photos van het appartement';
 		break;
 	case 'en':
 		$contents['home'] = 'Homepage';
+		$contents['about'] = 'About';
 		$contents['contact'] = 'Get in touch with us';
 		$contents['agenda'] = 'Availability of the apartment';
 		$contents['photos'] = 'Photos of the apartment';
@@ -39,11 +42,13 @@ switch($lang){
 $page_name = basename($_SERVER['PHP_SELF']); //name of the php file the user is on
 $page_active = ['index.php' => '',
 			    'contact.php' => '',
+			    'about.php' => '',
 			    'agenda.php' => '',
 			    'photos.php' => ''];
 $page_active[$page_name] = 'active';
 
 $navbar .= "<li class=".$page_active['index.php']."><a href='index.php?lang=$lang'>".$contents['home']."</a></li>
+			<li class=".$page_active['about.php']."><a href='about.php?lang=$lang'>".$contents['about']."</a></li>
 			<li class=".$page_active['contact.php']."><a href='contact.php?lang=$lang'>".$contents['contact']."</a></li>
 			<li class=".$page_active['agenda.php']."><a href='agenda.php?lang=$lang'>".$contents['agenda']."</a></li>
 			<li class=".$page_active['photos.php']."><a href='photos.php?lang=$lang'>".$contents['photos']."</a></li>

@@ -1,4 +1,4 @@
-var about_FR = [
+var about_EN = [
 	"STUDIO DE VACANCES à louer sur les pistes des 4 Vallées à THYON2000 / Valais", //titre
 
 	"Thyon est situé à 2100 mètres d'altitude en Valais à 20 km de Sion (lieu sans circulation automobile avec garage souterrain). Le studio no. 101,  se trouve dans le bâtiment GREPPON <b>au niveau 1</b>.",

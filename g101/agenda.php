@@ -9,6 +9,7 @@
 				<div class="col-md-8 col-lg-10">
 					<h1 class="text-center text"></h1>
 					<h3 class="text-center text"></h3>
+					<p class="bg-success text-center text"></p>
 				</div>
 				<div class="col-md-2 col-lg-1"></div>
 			</div>
@@ -23,11 +24,14 @@
 			var lang = "<?php echo $lang ?>";
 			var contents = {
 				fr: ["Disponibilités de l'appartement",
-					 "Vous trouverez ici l'agenda des disponibilités de l'appartement"],
+					 "Vous trouverez ici l'agenda des disponibilités de l'appartement",
+					 "Les cases vides représentent des dates libres"],
 				nl: ["Beschikbaarheid van het appartement",
-					 "U vindt hier alle data die vrĳ zĳn om te huren"],
+					 "U vindt hier alle data die vrĳ zĳn om te huren",
+					 "Als het wit is, is het studio vrij om te huren"],
 				en: ["Availability of the apartment",
-					 "You will find all the dates at which you can rent our apartment"]
+					 "You will find all the dates at which you can rent our apartment",
+					 "If the cells are blank, it means that the apartment is free for rent"]
 			};
 			insertText(lang,contents);
 		</script>
