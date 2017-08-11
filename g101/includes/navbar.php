@@ -12,10 +12,7 @@ $navbar = "<nav class='navbar navbar-default navbar-static-top'>
 		<div id='navbar' class='collapse navbar-collapse'>
 			<ul class='nav navbar-nav'>";
 
-$contents = ['home' => '', 
-			 'contact' => '', 
-			 'agenda' => '',
-			 'photos' => '']; //contents of the navbar
+$contents = []; //contents of the navbar
 switch($lang){
 	case 'fr':
 		$contents['home'] = 'Accueil';
@@ -23,6 +20,7 @@ switch($lang){
 		$contents['contact'] = 'Nous contacter';
 		$contents['agenda'] = 'Disponibilités de l\'appartement';
 		$contents['photos'] = 'Photos de l\'appartement';
+		$contents['links'] = 'Sites affiliés';
 		break;
 	case 'nl':
 		$contents['home'] = 'Homepagina';
@@ -30,6 +28,7 @@ switch($lang){
 		$contents['contact'] = 'Neem met ons contact';
 		$contents['agenda'] = 'Beschikbaarheid van het appartement';
 		$contents['photos'] = 'Photos van het appartement';
+		$contents['links'] = 'Gelinkte sites';
 		break;
 	case 'en':
 		$contents['home'] = 'Homepage';
@@ -37,28 +36,30 @@ switch($lang){
 		$contents['contact'] = 'Get in touch with us';
 		$contents['agenda'] = 'Availability of the apartment';
 		$contents['photos'] = 'Photos of the apartment';
+		$contents['links'] = 'Linked sites';
 		break;
 }
 $page_name = basename($_SERVER['PHP_SELF']); //name of the php file the user is on
 $page_active = ['index.php' => '',
-			    'contact.php' => '',
-			    'about.php' => '',
-			    'agenda.php' => '',
-			    'photos.php' => ''];
+				'about.php' => '',
+				'contact.php' => '',
+				'agenda.php' => '',
+				'photos.php' => '',
+			    'links.php' => ''];
 $page_active[$page_name] = 'active';
-
 $navbar .= "<li class=".$page_active['index.php']."><a href='index.php?lang=$lang'>".$contents['home']."</a></li>
 			<li class=".$page_active['about.php']."><a href='about.php?lang=$lang'>".$contents['about']."</a></li>
 			<li class=".$page_active['contact.php']."><a href='contact.php?lang=$lang'>".$contents['contact']."</a></li>
 			<li class=".$page_active['agenda.php']."><a href='agenda.php?lang=$lang'>".$contents['agenda']."</a></li>
 			<li class=".$page_active['photos.php']."><a href='photos.php?lang=$lang'>".$contents['photos']."</a></li>
+			<li class=".$page_active['links.php']."><a href='links.php?lang=$lang'>".$contents['links']."</a></li>
 			</ul>
 			<ul class='nav navbar-nav navbar-right'>";
 
 //language switch
 $lang_active = ['fr' => '',
-			    'nl' => '',
-			    'en' => ''];
+				'nl' => '',
+				'en' => ''];
 $lang_active[$lang] = 'active';
 $navbar .= "<li class=".$lang_active['fr']."><a href='$page_name?lang=fr'>Français</a></li>
 			<li class=".$lang_active['nl']."><a href='$page_name?lang=nl'>Nederlands</a></li>
