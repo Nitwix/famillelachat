@@ -15,9 +15,9 @@ var about_FR = [
 
 	"Four à micro-ondes/gril,  set fondue, four à raclette, machine à café DOLCE GUSTO et machine à café-filtre, toaster.",
 
-	"TV-sat. (écran-plat), DVD, PlayStation2. Une piscine couverte se trouve à quelques mètres de l'entrée de l'immeuble.",
+	"TV-sat. (écran-plat), DVD, PlayStation2 et wifi privé sont diponibles dans l'appartement (sans coût supplémentaire). Une piscine couverte se trouve à quelques mètres de l'entrée de l'immeuble.",
 
-	"La location comprend : studio, armoire à ski, place de parc, literie pour les 4 duvets/oreillers.", 
+	"La location comprend : studio, armoire à ski, place de parc, literie pour les 4 duvets/oreillers.",
 
 	"Dans le parking souterrain, prenez l'ascenseur jusqu'au niveau 1 et vous êtes à l'étage où se trouve l'appartement.",
 

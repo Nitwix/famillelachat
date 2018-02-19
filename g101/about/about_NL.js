@@ -1,7 +1,7 @@
 var about_NL = [
 	"VAKANTIE-STUDIO TE HUUR in THYON 2000, ZWITSERLAND", //titre
 
-	"Thyon ligt op 2100 meter hoogte in het kanton Wallis/Valais op 20km afstand van Sion. (Veilig voor spelende kinderen, omdat er geen autoverkeer in Thyon2000 is).De studio bevindt zich in gebouw GREPPON, op de eerste verdieping, nr.101.",
+	"Thyon ligt op 2100 meter hoogte in het kanton Wallis/Valais op 20km afstand van Sion. (Veilig voor spelende kinderen, omdat er geen autoverkeer in Thyon2000 is). De studio bevindt zich in gebouw GREPPON, op de eerste verdieping, nr.101.",
 
 	"Les 4 Vallées  (412 km skipistes) is het grootste skigebied in Zwitserland. Gedurende het skiseizoen van december t/m april zijn de ski-liften geopend. De studio bevindt zich op een paar meter afstand van de skipiste.",
 
@@ -13,11 +13,11 @@ var about_NL = [
 
 	"Badkamer met bad/douche, Nieuwe keuken met koelkast, combi-oven, kookplaat.",
 
-	"Kaasfondue-set, Raclette stel, DOLCE GUSTO Koffiezetapparaat + filterkoffiemachine, Toaster, Magnetron met oven/grill funktie, TV-sat.flatscreen, DVD, PlayStation 2.",
+	"Kaasfondue-set, Raclette stel, DOLCE GUSTO Koffiezetapparaat + filterkoffiemachine, Toaster, Magnetron met oven/grill funktie, TV-sat.flatscreen, DVD, PlayStation 2 en privé wifi zijn in het appartement beschikbaar.",
 
 	"",
 
-	"Er is een privé parkeerplaats in de parkeergarage (onder het gebouw), deze is bij de prijs inbegrepen.", 
+	"Er is een privé parkeerplaats in de parkeergarage (onder het gebouw), deze is bij de prijs inbegrepen.",
 
 	"Het overdekte zwembad is op enkele meters te bereiken (naast het gebouw van de studio).",
 

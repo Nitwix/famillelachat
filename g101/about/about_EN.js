@@ -13,11 +13,11 @@ var about_EN = [
 
 	"Bathroom with shower and bath, new kitchen with freezer, combi-oven, electrical cooktop.",
 
-	"Fondue-set, Raclette tool, DOLCE GUSTO coffeemaker + filter coffee machine, Toaster, Microwave, TV-sat.flatscreen, DVD, PlayStation 2.",
+	"Fondue-set, Raclette tool, DOLCE GUSTO coffeemaker + filter coffee machine. Toaster, Microwave, TV-sat.flatscreen, DVD, PlayStation 2. There is also a private wifi network included with the rental.",
 
 	"The indoor swimming pool is near the building of the apartment.",
 
-	"The location contains : the apartment, the ski storage room (see below), the parking space and all you need to sleep (4 quilts, 4 pillows and the cases that go with them)", 
+	"The location contains : the apartment, the ski storage room (see below), the parking space and all you need to sleep (4 quilts, 4 pillows and the cases that go with them)",
 
 	"Our apartment is apartment \"Greppon 101\", situated in building GREPPON, on the first floor.",
 
